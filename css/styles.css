@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+
+    padding: 40px
+}
+span.a {
+  display: inline; 
+  width: 400px;
+  height: 100px;
+  padding: 5px;
+  background-color: #ffffff;
+}
+div.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  
+  background-color: #FFFFFF;
+}
+
+h2 {
+ background-color: #FFFFFF;
+ padding: ;
+ border-bottom: 2px solid #000000;
+}
+span.b {
+  display: inline-block;
+  width: 820px;
+  height: 100px;
+  padding: 5px;
+  background-color: #FFFFFF;
+}
+
+
+
+
